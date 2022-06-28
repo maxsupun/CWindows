@@ -1,4 +1,4 @@
-name: C-Windows
+name: CWindows
 
 on: workflow_dispatch
 
